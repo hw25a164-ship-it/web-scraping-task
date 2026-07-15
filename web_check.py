@@ -41,5 +41,4 @@ else:
         # 新しい状態に上書き
         with open(cache_file, "w", encoding="utf-8") as f:
             f.write(current_content)
-# webhook test 1
-# webhook test 2
+# demo test 1
